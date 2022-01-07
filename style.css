@@ -1,0 +1,143 @@
+body{
+    font-family: 'Mukta', sans-serif;
+    margin: 0% auto;
+}
+h2{
+    font-size: 40px;
+    margin-left: 5%;
+}
+.div-part-01{
+    width: 50%;
+}
+.div-part-02 img{
+   width: 50%;
+   margin: 0% 15% 20% 40%;
+}
+.sec-part-01{
+    display: flex;
+    margin: 5% 0% 0% 10%;
+}
+.misti-color{
+    color: orange;
+}
+.link-01{
+    text-decoration: none;
+    background-image: linear-gradient(orange, tomato);
+    padding: 10px 40px;
+    color: white;
+    font-weight: 700;
+    border-radius: 5px;
+}
+.peragraph-01{
+    font-size: 22px;
+}
+.lomba-dari{
+    border-left: 4px solid;
+    border-image: linear-gradient(orange,tomato);
+    border-image-slice: 1;
+    border-radius: 5%;
+}
+.div-part-03{
+    text-align: center;
+}
+.div-part-04{
+    display: flex;
+    text-align: center;
+}
+.flexible-pic img{
+    width: 50%;
+}
+.flexible-pic{
+    width: 33%;
+    font-size: 25px;
+}
+.div-part-05{
+    font-size: 20px;
+    background-color: bisque;
+    margin: 5% 1% 5% 10%;
+    padding: 5px 5px 5px 5px;
+    border-radius: 5%;
+    text-align: left;
+}
+.div-part-06{
+    font-size: 20px;
+    background-color: silver;
+    margin: 5% 1% 5% 1%;
+    padding: 5px 5px 5px 5px;
+    border-radius: 5%;
+    text-align: left;
+}
+.div-part-07{
+    font-size: 20px;
+    background-color:whitesmoke;
+    margin: 5% 10% 5% 1%;
+    padding: 5px 5px 5px 5px;
+    border-radius: 5%;
+    text-align: left;
+}
+.peragraph-02{
+    margin-left: 5%;
+
+}
+.link-02{
+    text-decoration: none;
+    background-image: linear-gradient(orange, tomato);
+    padding: 10px 40px;
+    color: white;
+    font-weight: 700;
+    border-radius: 5px;   
+}
+.sec-part-03{
+    display: flex;
+}
+.div-part-08 img{
+    width: 70%;
+    margin-left: 20%;
+}
+.div-part-09{
+    margin: -4% 10% 20% 2%;
+}
+.h1-3rd{
+font-size: 50px;
+}
+
+.peragraph-77{
+font-size: 20px;
+}
+
+.sec-part-04{
+    display: flex;  
+}
+.h1-4th{
+    font-size: 50px;
+}
+.link-03{
+    text-decoration: none;
+    background-image: linear-gradient(orange, tomato);
+    padding: 10px 40px;
+    color: white;
+    font-weight: 700;
+    border-radius: 5px; 
+}
+.div-part-10{
+    margin: -4% 10% 20% 10%;
+}
+.div-part-11 img{
+    width: 75%;
+    margin-right: 20%;
+}
+.sec-part-05{
+background-color: dimgray;
+margin: 0% 0% -2% 0%;
+}
+.div-part-12{
+    font-family: 'Dancing Script', cursive;
+    text-align: center;
+    font-size: 40px;
+}
+footer p {
+    text-align: center;
+    }
+
+
+
